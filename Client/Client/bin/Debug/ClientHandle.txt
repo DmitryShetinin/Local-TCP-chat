@@ -1,0 +1,86 @@
+using System;
+
+namespace HelloWorld
+{
+    class Hello
+    {
+        class Shape
+        {
+            protected double s;
+            protected double p;
+            protected string s1;
+            public Shape()
+            {
+                s = 0;
+                p = 0;
+                s1 = "0";
+            }
+
+            public void Show()
+            {
+                Console.WriteLine("Площадь " + s + "Перимеир " + p + "Фигура " + s1);   
+            }
+        }
+
+        class Rect : Shape
+        {
+            public Rect()
+            {
+                s = 0; p = 0; s1 = "Прямоугольник";
+            }
+
+            public Rect(double zxc1, double zxc2)
+            {
+                s = zxc1; p = zxc2; s1 = "Прямоугольник";
+            }
+
+            public void S()
+            {
+                Console.WriteLine("Площадь фигуры - " + s);
+            }
+        }
+
+        class Square : Rect
+        {
+            public Square()
+            {
+                s = 0; p = 0; s1 = "Квадрат";
+            }
+
+            public Square(double zxc1, double zxc2)
+            {
+                s = zxc1; p = zxc2; s1 = "Квадрат";
+            }
+
+            public void S()
+            {
+                Console.WriteLine("Площадь фигуры - " + s);
+            }
+
+            public void P()
+            {
+                Console.WriteLine("Площадь фигуры - " + p);
+            }
+        }
+
+
+       public static void Shuffle<T>(T[] arr)
+{
+    Random rand = new Random();
+ 
+    for (int i = arr.Length - 1; i >= 1; i--)
+    {
+        int j = rand.Next(i + 1);
+ 
+        T tmp = arr[j];
+        arr[j] = arr[i];
+        arr[i] = tmp;
+    }
+}
+
+        static void Main()
+        {
+            Console.WriteLine("Hello World!");
+        }
+    }
+}

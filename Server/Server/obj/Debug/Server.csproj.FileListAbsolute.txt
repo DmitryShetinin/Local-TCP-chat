@@ -1,0 +1,21 @@
+c:\users\щука\documents\visual studio 2015\Work\Chat2\Server\Server\bin\Debug\Server.exe.config
+c:\users\щука\documents\visual studio 2015\Work\Chat2\Server\Server\bin\Debug\Server.exe
+c:\users\щука\documents\visual studio 2015\Work\Chat2\Server\Server\bin\Debug\Server.pdb
+c:\users\щука\documents\visual studio 2015\Work\Chat2\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+c:\users\щука\documents\visual studio 2015\Work\Chat2\Server\Server\obj\Debug\Server.exe
+c:\users\щука\documents\visual studio 2015\Work\Chat2\Server\Server\obj\Debug\Server.pdb
+C:\Users\Shche\OneDrive\Рабочий стол\Chat2\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Shche\OneDrive\Рабочий стол\Chat2\Server\Server\bin\Debug\Server.exe
+C:\Users\Shche\OneDrive\Рабочий стол\Chat2\Server\Server\bin\Debug\Server.pdb
+C:\Users\Shche\OneDrive\Рабочий стол\Chat2\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Shche\OneDrive\Рабочий стол\Chat2\Server\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shche\OneDrive\Рабочий стол\Chat2\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Shche\OneDrive\Рабочий стол\Chat2\Server\Server\obj\Debug\Server.exe
+C:\Users\Shche\OneDrive\Рабочий стол\Chat2\Server\Server\obj\Debug\Server.pdb
+C:\Users\Shche\OneDrive\Рабочий стол\Chat2\Server\Server\bin\Debug\AForge.dll
+C:\Users\Shche\OneDrive\Рабочий стол\Chat2\Server\Server\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Shche\OneDrive\Рабочий стол\Chat2\Server\Server\bin\Debug\AForge.Video.dll
+C:\Users\Shche\OneDrive\Рабочий стол\Chat2\Server\Server\bin\Debug\AForge.xml
+C:\Users\Shche\OneDrive\Рабочий стол\Chat2\Server\Server\bin\Debug\AForge.Video.xml
+C:\Users\Shche\OneDrive\Рабочий стол\Chat2\Server\Server\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Shche\OneDrive\Рабочий стол\Chat2\Server\Server\obj\Debug\Server.csproj.CopyComplete
